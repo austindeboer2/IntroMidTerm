@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "btsqGgSpKdAmNQvYpDzHqBk9+7Kr+yVippVnB8cj2l7bQ7nlS23FcUlFum/BLe2RdQ0fT0OS9tvMA+fZe9CtRA==",
+  "dgSpecHash": "/Y0GuF85I04rNA+sLlshWK1+oMoOgeAY+a/n+6itA8CfNRqod4LQBMxEoLaHbLUHS8L24A9NBZ2m0nKg6vqQQA==",
   "success": true,
-  "projectFilePath": "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Tests\\Midterm\\Midterm\\GradeTest\\GradeTest.csproj",
+  "projectFilePath": "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Templates\\Midterm\\IntroMidTerm\\GradeTest\\GradeTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Austin\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Austin\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Tests\\Midterm\\Midterm\\RandomNumberTest\\RandomNumberTest.csproj": {}
+    "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Templates\\Midterm\\IntroMidTerm\\RandomNumberTest\\RandomNumberTest.csproj": {}
   },
   "projects": {
-    "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Tests\\Midterm\\Midterm\\Midterm\\Midterm.csproj": {
+    "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Templates\\Midterm\\IntroMidTerm\\Midterm\\Midterm.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Tests\\Midterm\\Midterm\\Midterm\\Midterm.csproj",
+        "projectUniqueName": "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Templates\\Midterm\\IntroMidTerm\\Midterm\\Midterm.csproj",
         "projectName": "Midterm",
-        "projectPath": "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Tests\\Midterm\\Midterm\\Midterm\\Midterm.csproj",
+        "projectPath": "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Templates\\Midterm\\IntroMidTerm\\Midterm\\Midterm.csproj",
         "packagesPath": "C:\\Users\\Austin\\.nuget\\packages\\",
-        "outputPath": "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Tests\\Midterm\\Midterm\\Midterm\\obj\\",
+        "outputPath": "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Templates\\Midterm\\IntroMidTerm\\Midterm\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -63,14 +63,14 @@
         }
       }
     },
-    "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Tests\\Midterm\\Midterm\\RandomNumberTest\\RandomNumberTest.csproj": {
+    "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Templates\\Midterm\\IntroMidTerm\\RandomNumberTest\\RandomNumberTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Tests\\Midterm\\Midterm\\RandomNumberTest\\RandomNumberTest.csproj",
+        "projectUniqueName": "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Templates\\Midterm\\IntroMidTerm\\RandomNumberTest\\RandomNumberTest.csproj",
         "projectName": "RandomNumberTest",
-        "projectPath": "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Tests\\Midterm\\Midterm\\RandomNumberTest\\RandomNumberTest.csproj",
+        "projectPath": "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Templates\\Midterm\\IntroMidTerm\\RandomNumberTest\\RandomNumberTest.csproj",
         "packagesPath": "C:\\Users\\Austin\\.nuget\\packages\\",
-        "outputPath": "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Tests\\Midterm\\Midterm\\RandomNumberTest\\obj\\",
+        "outputPath": "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Templates\\Midterm\\IntroMidTerm\\RandomNumberTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -92,8 +92,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Tests\\Midterm\\Midterm\\Midterm\\Midterm.csproj": {
-                "projectPath": "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Tests\\Midterm\\Midterm\\Midterm\\Midterm.csproj"
+              "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Templates\\Midterm\\IntroMidTerm\\Midterm\\Midterm.csproj": {
+                "projectPath": "E:\\OneDrive\\OneDrive - Rockford Public Schools\\Intro to Programming\\Assignments and Projects\\Templates\\Midterm\\IntroMidTerm\\Midterm\\Midterm.csproj"
               }
             }
           }

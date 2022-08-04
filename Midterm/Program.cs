@@ -37,7 +37,7 @@
 
     }
 
-    public void Main(string[] args)
+    public static void Main(string[] args)
     {
         MidTerm m = new MidTerm();
         //If you would like to test any of your code in the console use m.METHODNAME() in this area
